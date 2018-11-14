@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'rspec',
 gem 'highline', '~> 1.6.0'
 gem 'inspec', '>= 2.0.30'
 gem 'rack', '1.6.4'
